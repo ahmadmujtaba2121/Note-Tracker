@@ -1,4 +1,4 @@
-import AddNote from './components/AddNote.jsx'
+import AddNote from './components/addNote.jsx'
 import NoteList from './components/NoteCard.jsx'
 import "./index.css"
 import { useNoteContext } from "./Context/NoteContext"
